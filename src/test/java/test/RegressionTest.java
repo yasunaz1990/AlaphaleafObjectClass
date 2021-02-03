@@ -1,6 +1,6 @@
-// Test Class:  java class that contains test cases
+package test;// Test Class:  java class that contains test cases
 //  SmokeTest
-//  RegressionTest
+//  test.RegressionTest
 //  FunctionalTest
 
 import com.github.javafaker.Faker;

@@ -1,3 +1,5 @@
+package list.arrayrelated;
+
 import com.github.javafaker.Faker;
 import org.testng.annotations.Test;
 
